@@ -1,6 +1,6 @@
 package com.pragra.oct29;
 
-public class program1 {
+public class WhileLoop {
     public static void main(String[] args) {
 
         int couter=0;
