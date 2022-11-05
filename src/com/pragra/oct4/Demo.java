@@ -8,7 +8,8 @@ public class Demo {
         System.out.print(Math.floor(5));
         System.out.println("vivek changes1 ");
         System.out.println("Anisha");
-
+        int c=3+5;
+        System.out.println(c);
 
     }
 }
